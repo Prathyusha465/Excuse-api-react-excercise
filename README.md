@@ -1,4 +1,5 @@
 it uses Excuse API : 
+
 Party : https://excuser-three.vercel.app/v1/excuse/party
 
 Office : https://excuser-three.vercel.app/v1/excuse/office
